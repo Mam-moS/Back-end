@@ -16,15 +16,3 @@ spring:
   h2:
     console:
       enabled: true
-
-
-  mail:
-    host: smtp.naver.com
-    port: 465
-    username: mam-mos@naver.com
-    password: cnddud123!
-    properties:
-      mail.smtp.auth: true
-      mail.smtp.enable: true
-      mail.smtp.ssl.enable: true
-      mail.smtp.ssl.trust: smtp.naver.com
